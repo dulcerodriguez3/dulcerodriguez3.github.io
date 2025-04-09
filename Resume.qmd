@@ -1,0 +1,97 @@
+---
+title: "Dulce Rodriguez - Resume"
+format: 
+  html:
+    css: styles.css  # remove this line if you don't have a custom CSS file
+---
+
+**Phone:** 661.404.6165\
+**Location:** Santa Barbara, CA 93107\
+**Email:** [dulce8642\@gmail.com](mailto:dulce8642@gmail.com)\
+**LinkedIn:** [linkedin.com/in/dulce-rodriguez0](https://www.linkedin.com/in/dulce-rodriguez0)\
+**Website:** [dulcerodriguez3.github.io](https://dulcerodriguez3.github.io/)
+
+[Download My Resume PDF](./assets/resume.pdf){.btn .btn-primary}
+
+------------------------------------------------------------------------
+
+## Summary of Qualifications
+
+-   Results-driven Analyst with a strong ability to build relationships with peers and stakeholders.
+-   Skilled in statistical analysis, data cleaning, and presenting insights clearly and concisely.
+-   Proficient in Python, R Studio, SQL, Tableau, Excel, and SAS Studio for effective data analysis.
+-   Outstanding organizational, multitasking, and problem-solving abilities aimed at achieving goals.
+
+------------------------------------------------------------------------
+
+## Work Experience
+
+### UBS Investment Bank - Santa Barbara, CA
+
+*Analyst Intern*\
+**January 2025 - Current**
+
+-   Collaborated with Financial Advisors to perform in-depth market research and quantitative analysis.
+-   Provided data-driven market commentary and insights to support evidence-based client recommendations.
+-   Prepared and rigorously reviewed research reports with a focus on statistical analysis for team discussions.
+-   Presented sector-specific research and data-backed investment ideas to the team.
+-   Maintained detailed performance spreadsheets for High Net Worth clients using advanced statistical methods.
+-   Developed and implemented predictive models to forecast market trends and assess risk.
+
+### UC Santa Barbara Athletics - Santa Barbara, CA
+
+*Division I UCSB Men's Soccer Performance Data Analyst Intern*\
+**May 2024 - December 2024**
+
+-   Delivered data and video insights to support coaching strategies and performance improvement.
+-   Utilized tools such as Wyscout, Hudl, Adobe, and R Studio for in-depth post-match analysis.
+-   Created visualizations and presentations to communicate performance trends to coaching staff.
+-   Coordinated with coaches to set and track team and individual performance goals.
+-   Analyzed opponent strategies and prepared detailed scouting reports.
+-   Edited and tagged video clips to highlight key moments for tactical planning.
+
+### The Club and Guest House - Santa Barbara, CA
+
+*Guest Service Associate*\
+**May 2023 - Current**
+
+-   Welcomed guests, managed check-in processes, and provided essential information on amenities.
+-   Assigned rooms and ensured accurate key programming.
+-   Addressed guest inquiries, concerns, and billing discrepancies professionally.
+
+### Valley Strong Credit Union - Bakersfield, CA
+
+*Member Service Representative - Internship*\
+**August 2019 - August 2021**
+
+-   Processed financial transactions and handled cash and checks.
+-   Built strong customer relationships in a positive, organized environment.
+-   Acquired product and service knowledge, including credit reports and FICO scores.
+-   Completed over 25 banking courses on policies and customer service best practices.
+
+------------------------------------------------------------------------
+
+## Education
+
+**University of California Santa Barbara - Santa Barbara, CA**\
+Bachelor of Science in Statistics and Data Science\
+*Expected Graduation: June 2025*
+
+-   **HaU Organization:** Active participation in academic, community service, and social events/workshops.
+-   **PALiSaDS Scholar:** NSF Scholarships in STEM; engaged in professional development initiatives.
+-   **Technology Management Program:** Certificate in progress, focusing on aligning technology with business goals.
+-   **Directed Reading Program (Math Research):** Research on elliptic curves over number fields using machine learning and data analysis.
+
+------------------------------------------------------------------------
+
+## Honors & Publications
+
+-   **Published Author - UCSB:** "Starting Lines" published in January 2024.
+-   **American Association for Advancement in Science (AAAS):** Member supporting global scientific advancement and interdisciplinary research.
+
+------------------------------------------------------------------------
+
+## Language Competencies
+
+-   **English:** Native language
+-   **Spanish:** Fluent (speaking, reading, writing)
