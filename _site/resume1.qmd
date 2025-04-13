@@ -1,8 +1,8 @@
 ---
-title: "Dulce Rodriguez - Resume"
+title: "Dulce Rodriguez Resume"
 format: 
   html:
-    css: styles.css  # remove this line if you don't have a custom CSS file
+    css: styles.css 
 ---
 
 **Phone:** 661.404.6165\
@@ -10,8 +10,6 @@ format:
 **Email:** [dulce8642\@gmail.com](mailto:dulce8642@gmail.com)\
 **LinkedIn:** [linkedin.com/in/dulce-rodriguez0](https://www.linkedin.com/in/dulce-rodriguez0)\
 **Website:** [dulcerodriguez3.github.io](https://dulcerodriguez3.github.io/)
-
-[Download My Resume PDF](./assets/resume.pdf){.btn .btn-primary}
 
 ------------------------------------------------------------------------
 
