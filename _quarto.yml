@@ -12,8 +12,6 @@ website:
         text: Projects and Publications
       - href: resume1.qmd
         text: Resume
-      - href: Resume.qmd
-        text: Resume
 
 format:
   html:
